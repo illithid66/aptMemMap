@@ -1,2 +1,1 @@
-# aptMemMap
-Simatic APT memory mapping code
+Attached is a known working version of a primitive text mining script that compiles user generated reports to get memory addresses in APT.  It was iterated manually on a laptop and tested with three different programs.  You will need to copy the whole program folder to the directory where you run this.  You need to run each report.  APT is memory limited, so I have found that I need to copy the reports inside in order to really make this functional.  Make sure to put the new reports in the same folder structure as they are generated, so this properly puts them in place.  Use at your own risk- but I hope it helps!
